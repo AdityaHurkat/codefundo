@@ -1,3 +1,4 @@
 # codefundo
 my first project
 If there arises a situation which is not in our control then the best thing which can happen is, we should know the extent of the problem and its after effects. Thus if we can predict the consiquences, the better we can be prepared for the coming problem. Also if we can predict when the problem is to arrive we can reduce the loss which was actually going to happen. And also we can have pre-planned strategies to fight such situations. Thus I want to develop something that actually helps people on mass scale. And this is the second time I am getting a platform to bring some change and help the society.
+We can take the data of the disasters from the past years, mainly about the extent of the damage, the time around which it is going to occur, the hitting location, the starting location, its duration, the expenditure it will demand, the resources needed to overcome from the situation. 
